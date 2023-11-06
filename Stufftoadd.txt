@@ -1,0 +1,15 @@
+1. Warning when you don't sneak click a chest
+2. swap stonk teaching?
+3. Boss strats (agro, when to crush ... etc)
+4. dulkir stile secret waypoints
+5. secret routes/waypoints! (toggelable in each room, prob not customizable though)
+6. etherwarp detection
+7. dev helper (tells wich levers to flick)
+8. Hide incorrect items in terms (Don't block clicks though)
+9. stair line?
+10. All of it in oneconfig
+11. PB tracker and congratulator via a screen title (pretty like soopy inquiz)
+12. spotify controller?
+13. renderlib boxes on important warps/points
+14. chat cleaner
+15. 
