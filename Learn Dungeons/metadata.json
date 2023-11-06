@@ -1,7 +1,0 @@
-{
-    "name": "Learn Dungeons",
-    "description": "This module gives friendly reminders to help you learn dungeon strats :)",
-    "author": "Sleepy",
-    "entry": "index.js",
-    "requires":["BloomCore"]
-  }
