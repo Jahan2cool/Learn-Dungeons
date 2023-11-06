@@ -12,4 +12,6 @@
 12. spotify controller?
 13. renderlib boxes on important warps/points
 14. chat cleaner
-15. 
+15. Warning when you open chests with aotv or item with ability
+16. Wither Cloak Warning
+17. Reminder to bonzo in p2
