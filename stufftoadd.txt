@@ -1,0 +1,26 @@
+Done:
+
+    Warning when you don't sneak click a chest
+
+WIP:
+
+
+
+FUTURE:
+
+    swap stonk teaching?
+    Boss strats (agro, when to crush ... etc)
+    dulkir stile secret waypoints
+    secret routes/waypoints! (toggelable in each room, prob not customizable though)
+    etherwarp detection
+    dev helper (tells wich levers to flick)
+    Hide incorrect items in terms (Don't block clicks though)
+    stair line?
+    All of it in oneconfig
+    PB tracker and congratulator via a screen title (pretty like soopy inquiz)
+    spotify controller?
+    renderlib boxes on important warps/points
+    chat cleaner
+    Warning when you open chests with aotv or item with ability
+    Wither Cloak Warning
+    Reminder to bonzo in p2
