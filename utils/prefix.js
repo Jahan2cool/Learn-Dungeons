@@ -1,0 +1,1 @@
+export const prefix = '&4[&cLearn Dungeons&4]&r '
